@@ -13,10 +13,10 @@ export default function BentoGrid() {
     },
     {
       id: 2,
-      title: "Targeted Campaigns",
-      description: "Reach the right audience at the right time with campaigns that convert across every platform.",
+      title: "Performance Analytics",
+      description: "Track results in real-time and adapt fast—because great marketing never stands still.",
       span: "md:col-span-1 md:row-span-1",
-      icon: "🎯"
+      icon: "📊"
     },
     {
       id: 3,
@@ -38,13 +38,6 @@ export default function BentoGrid() {
       description: "Boost visibility and authority with content that ranks, resonates, and delivers long-term value.",
       span: "md:col-span-1 md:row-span-1",
       icon: "🔍"
-    },
-    {
-      id: 6,
-      title: "Performance Analytics",
-      description: "Track results in real-time and adapt fast—because great marketing never stands still.",
-      span: "md:col-span-1 md:row-span-1",
-      icon: "📊"
     }
   ];
 
