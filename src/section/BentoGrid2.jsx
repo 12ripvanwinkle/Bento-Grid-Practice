@@ -119,11 +119,12 @@ export default function BentoGrid2() {
             {/* Image Container */}
             <div className="relative h-full w-full bg-gradient-to-br from-neutral-700 to-neutral-900 flex items-center justify-center">
               {/* Placeholder for image - replace with <img src="your-image.jpg" /> */}
-              <div className="text-center space-y-4 p-8">
+              <img src="/images/placeholder-team-image.jpg" alt="" />
+              {/* <div className="text-center space-y-4 p-8">
                 <div className="text-8xl mb-4">📸</div>
                 <div className="text-white text-xl font-semibold">Your Team Photo</div>
                 <div className="text-gray-400 text-sm">Replace this with your image</div>
-              </div>
+              </div> */}
               
               {/* Overlay gradient */}
               <div className="absolute inset-0 bg-gradient-to-t from-neutral-900/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
